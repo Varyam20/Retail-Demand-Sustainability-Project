@@ -56,7 +56,7 @@ Built using:
 
 # 🛒 Retail Demand & Sustainability Dashboard
 
-🚀 **Live Dashboard**: [Click here to view](https://your-retail-dashboard-link.onrender.com)
+🚀 **Live Dashboard**: [Click here to view](https://retail-demand-sustainability-project-4apdgv6hxez4n5vonpgnb3.streamlit.app/)
 
 This dashboard analyzes retail product demand trends and supports sustainable inventory management using machine learning and visual insights.
 
